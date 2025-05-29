@@ -14,7 +14,7 @@
 
 ## Podcast Streaming Application
 
-### Deployed Link : [View Webapp](https://podstream.netlify.app/)
+### Deployed Link : [View Webapp](https://podstream-three.vercel.app/)
 
 ### This is a web application for streaming podcasts with the following features:
 - User authentication
